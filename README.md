@@ -4,7 +4,7 @@
 > This repository contains the standalone code submitted in support of the manuscript:
 > *"Central role of the transcriptional regulator MprA in coordinating antibiotic resistance, sialic acid metabolism and capsule production"* (currently under review).
 >
-> The codebase was designed specifically to generate the comparative contact mechanics data hosted on the interactive web resource: [https://biosig.lab.uq.edu.au/mpra/](https://biosig.lab.uq.edu.au/mpra/). While this pipeline is fully functional and can be adapted for other homodimeric protein–DNA complexes, it has not been exhaustively tested outside of the parameters of this study. Researchers applying this tool to their own bespoke structural datasets should do so with standard computational care.
+> The codebase was designed specifically to generate the comparative contact mechanics data hosted on the interactive web resource: [https://biosig.lab.uq.edu.au/mpra/](https://biosig.lab.uq.edu.au/mpra/). While this pipeline is fully functional and can be adapted for other protein–DNA complexes, including monomeric and homodimeric proteins bound to single- or double-stranded DNA, it has not been exhaustively tested outside of the parameters of this study. Researchers applying this tool to their own bespoke structural datasets should do so with standard computational care.
 
 ---
 
